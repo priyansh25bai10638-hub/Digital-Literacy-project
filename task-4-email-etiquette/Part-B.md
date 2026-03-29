@@ -5,6 +5,8 @@ Network with Industry Professionals: Follow leaders in AI/ML and connect with al
 Share Technical Achievements: Post about your projects (like Python scripts or Streamlit apps) to showcase your skills.
 Fact-Check Before Sharing: Always verify the source of information to prevent the spread of misinformation.
 Audit Your Privacy Settings: Regularly check who can see your posts and personal information on all platforms.
+
+
 ❌ The Don'ts
 Don't Post Confidential Information: Avoid sharing internal university documents or private communication.
 Don't Engage in Cyberbullying: Maintain a respectful tone and avoid online arguments or offensive language.
