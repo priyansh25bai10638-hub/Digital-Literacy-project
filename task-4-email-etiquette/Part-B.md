@@ -2,6 +2,7 @@ Social Media Checklist for College Students
 
 
 ✅ The Do's
+
 Use a Professional Profile Picture: Ensure your headshot is clear and appropriate for professional platforms.
 
 Network with Industry Professionals: Follow leaders in AI/ML and connect with alumni to stay updated on industry trends.
@@ -14,6 +15,7 @@ Audit Your Privacy Settings: Regularly check who can see your posts and personal
 
 
 ❌ The Don'ts
+
 Don't Post Confidential Information: Avoid sharing internal university documents or private communication.
 
 Don't Engage in Cyberbullying: Maintain a respectful tone and avoid online arguments or offensive language.
